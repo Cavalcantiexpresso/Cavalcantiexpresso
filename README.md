@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cavalcantiexpresso
-- 👀 I’m interested in html,css,javascript,Typescript,python
+- 👀 I’m interested in html,css,javascript,Typescript,angular
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate wold
 - 📫 How to reach me  lucianocavalcantipf@icloud.com, +55 81 99944-0404
