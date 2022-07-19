@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Cavalcantiexpresso
-- 👀 I’m interested in html,css,javascript,Typescript,angular,cobol
-- 🌱 I’m currently learning javascript&typeScript;
-- 💞️ I’m looking to collaborate wold
-- 📫 How to reach me  lucianocavalcantipf@icloud.com, +55 81 99944-0404
+# Hello! I'm Luciano Cavalcanti ![](C:\Users\LUCIA\Dio-desafio\INSTAGRAM\img\perfil-instagram.jpg)
 
-<!---
-Cavalcantiexpresso/Cavalcantiexpresso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 📫 How to reach me [lucianocavalcantipf@icloud.com](mailto:lucianocavalcantipf@icloud.com), +55 81 99944-0404
+
+https://cubotec.netlify.app/
+
+### Connect with me:
+
+[(29) Luciano Paiva Cavalcanti | LinkedIn](https://www.linkedin.com/in/lucianocavalcanti/)
+
+
 --->
 https://cubotec.netlify.app/
