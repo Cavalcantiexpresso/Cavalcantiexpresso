@@ -3,11 +3,7 @@
 - 📫 Como chegar até mim [lucianocavalcantipf@icloud.com](mailto:lucianocavalcantipf@icloud.com), +55 81 99944-0404
 
 https://cubotec.netlify.app/
-  <div align="center">
-    <a href="https://github.com/Cavalcantiexpresso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=github.com/Cavalcantiexpresso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantiexpresso&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+ 
   
   
 
