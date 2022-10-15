@@ -4,7 +4,7 @@
 
 https://cubotec.netlify.app/
  
-  
+  E-mail: lucianocavalcanti26@gmail.com
   
 
 ### Connect with me:
