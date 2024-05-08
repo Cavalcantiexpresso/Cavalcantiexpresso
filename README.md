@@ -3,8 +3,8 @@
 [(29) Luciano Paiva Cavalcanti | LinkedIn](https://www.linkedin.com/in/lucianocavalcanti/)
 
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcantiexpresso&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcantiexpresso&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <div> 
@@ -12,6 +12,7 @@
   
   <a href = "mailto:lucianocavalcanti26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucianocavalcanti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
 </div>
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
