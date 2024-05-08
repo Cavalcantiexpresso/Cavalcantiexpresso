@@ -1,20 +1,21 @@
 ## Fala dev, Luciano P Cavalcanti aqui!
 
+
 [(29) Luciano Paiva Cavalcanti | LinkedIn](https://www.linkedin.com/in/lucianocavalcanti/)
 
-<div >
+<div align="row">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcantiexpresso&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
-<div> 
+<div <div align="row"> 
   <a href="https://www.youtube.com/channel/UCo9VYMAkWpibE86EIEI_n_g" target="_blank"></a>
   
   <a href = "mailto:lucianocavalcanti26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucianocavalcanti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 </div>
-<di align="center">
+<div align="center">
 <div style="display: inline_block; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +31,7 @@
 
 </div>
 </di>
+
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
