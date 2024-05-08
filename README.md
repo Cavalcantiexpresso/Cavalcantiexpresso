@@ -14,7 +14,8 @@
   <a href="https://www.linkedin.com/in/lucianocavalcanti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 </div>
-<div style="display: flex; justify-content: space-between;"> <br>
+<di align="center">
+<div style="display: inline_block; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,7 +29,7 @@
 <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </div>
-
+</di>
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
