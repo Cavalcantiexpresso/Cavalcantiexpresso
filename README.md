@@ -1,9 +1,8 @@
-## Fala dev, Luciano P Cavalcanti aqui!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Sou%20Luciano&fontColor=ffff&textBg=false&reversal=true"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&random=false&width=100%&lines=Bem+Vindo+)](https://git.io/typing-svg)
 
-[(29) Luciano Paiva Cavalcanti | LinkedIn](https://www.linkedin.com/in/lucianocavalcanti/)
-
-<div align="row">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcantiexpresso&layout=compact&langs_count=16&theme=transparent"/>
 </div>
