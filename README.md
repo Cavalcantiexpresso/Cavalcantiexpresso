@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Sou%20Luciano&fontColor=ffff&textBg=false&reversal=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Sou%20Luciano&fontColor=A5DE41&&textBg=false&reversal=false&fontSize=54&descAlignY=78&descAlign=70&animation=scaleIn&fontAlign=70&fontAlignY=63"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&random=false&width=100%&lines=Bem+Vindo+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=A5DE41&center=true&random=false&width=435&lines=Bem+Vindo+ao+nosso+reposit%C3%B3rio;+espero+poder+ajudar+ao+m%C3%A1ximo)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
