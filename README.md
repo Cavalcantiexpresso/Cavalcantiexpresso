@@ -23,7 +23,8 @@
 
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-  <img align="center" height="30" width="40" alt="ai-icon" src="https://image.flaticon.com/icons/png/512/888/888879.png">
+  
+<img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </div>
 
