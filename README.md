@@ -32,7 +32,7 @@
 </div>
 </di>
 
-![Snake animation](https://github.com/Cavalcantiexpresso/CavalcantiexpressoF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
 
