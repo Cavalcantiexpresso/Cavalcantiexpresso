@@ -3,8 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=A5DE41&center=true&random=false&width=435&lines=Bem+Vindo+ao+nosso+reposit%C3%B3rio;+espero+poder+ajudar+ao+m%C3%A1ximo)](https://git.io/typing-svg)
 
-<p dir="auto">💻 &nbsp;Desenvolvedor Software | Analista de TI<br>
-📊 &nbsp;Graduado em Gestão da Tecnologia da Informção<br>
+
   
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
