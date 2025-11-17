@@ -26,7 +26,7 @@
   <h2>
     Experiência Profissional  
   </h2>
-  <p dir="auto">💻 &nbsp;[Maio/2022 - nov/2025] Analista de TI - Desenvolvedor Na Paris pela EUROCONTATO<br>
+  <p dir="auto">💻 &nbsp;[Maio/2022 - nov/2025] Analista de TI - Desenvolvedor na Europa/Paris pela EUROCONTATO<br>
   <p dir="auto">💻 &nbsp;[Maio/2022 - Abril/2023] Analista de TI - Desenvolvedor Front-End Com Angular no Banco do Brasil<br>
 👨‍🏫 &nbsp;[Mar/2020 - Out/2016] Supervisor de Campo no Boticario Belem <br>
 👨‍🏫 &nbsp;[Maio/1999- Out/2002] Estagiário no Departamento de Tecnologia do Recife na Educação</p>
