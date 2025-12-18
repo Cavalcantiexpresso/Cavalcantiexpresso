@@ -36,7 +36,7 @@ Remoto | mai de 2023 – set de 2025 · 2 anos e 5 meses
 
 **Desenvolvedor de Software – G&E Serviços / BB Tecnologia e Serviços (Banco do Brasil)**  
 Recife - PE | 2023 - 2024  
-- Desenvolvimento frontend com Angular 14+, TypeScript, HTML5 e CSS3  
+- Desenvolvimento frontend com Angular 14+, TypeScript, HTML5, Scss, BB Design System e Figma
 - Consumo e integração com APIs REST  
 - Versionamento com Git e GitFlow  
 - Testes unitários (TDD) em projetos de migração de sistemas legados  
