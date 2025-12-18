@@ -57,11 +57,9 @@ Estagiário em Desenvolvimento Web – Mai/1999 a Out/2002**
 <a href="#">
       <img alt="Git" src="https://camo.githubusercontent.com/11cb48b4c008b55bde4573d53081832ba315d377aa71e9567d896ff85afd8838/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
 </a>
-<a href="#">
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-</a>
+
+
+
 
 <img alt="NPM" src="https://camo.githubusercontent.com/a4b28f86834e1138750abcccea361334091fbef901b8658ba4263d4533c79134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d4342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;">
 
