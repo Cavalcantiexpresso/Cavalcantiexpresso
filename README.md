@@ -5,17 +5,14 @@
 
 
   
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcantiexpresso&layout=compact&langs_count=16&theme=transparent"/>
-</div> 
-
 <div <div align="row"> 
   <a href="https://www.youtube.com/channel/UCo9VYMAkWpibE86EIEI_n_g" target="_blank"></a>
   
   <a href = "mailto:lucianocavalcanti26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucianocavalcanti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+  <a href="https://www.linkedin.com/in/lucianocavalcanti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Cavalcantiexpresso" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <div align="higth">
 Sobre mim
@@ -63,7 +60,7 @@ Estagiário em Desenvolvimento Web – Mai/1999 a Out/2002**
 
 <img alt="NPM" src="https://camo.githubusercontent.com/a4b28f86834e1138750abcccea361334091fbef901b8658ba4263d4533c79134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d4342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;">
 
-<div style="display: inline_block; justify-content: space-between;"> <br>
+<!-- <div style="display: inline_block; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -76,8 +73,61 @@ Estagiário em Desenvolvimento Web – Mai/1999 a Out/2002**
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
+</div> -->
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+
+<!-- Angular -->
+<a href="https://angular.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</a>
+
+<!-- React -->
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+
+<!-- HTML5 -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<!-- SCSS -->
+<a href="https://sass-lang.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</a>
+
+<!-- CSS3 -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</a>
+
 </div>
-</div>
+</div><br>
+<div align="higth">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcantiexpresso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcantiexpresso&layout=compact&langs_count=16&theme=transparent"/>
+</div> 
+
+
 
 
 
