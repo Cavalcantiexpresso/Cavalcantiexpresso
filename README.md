@@ -37,14 +37,21 @@ projetos com foco em qualidade, escalabilidade e organização de código.
 
 
 
-**Desenvolvedor de Software – G&E Serviços / BB Tecnologia e Serviços (Banco do Brasil)**  
-Recife - PE | 2023 - 2024  
-- Desenvolvimento frontend com Angular 14+, TypeScript, HTML5, Scss, BB Design System e Figma
-- Consumo e integração com APIs REST  
-- Versionamento com Git e GitFlow  
-- Testes unitários (TDD) em projetos de migração de sistemas legados  
-- Metodologias ágeis SCRUM e Kanban  
-- Ferramentas: Swagger, Maven, Postman
+Desenvolvedor Front-end
+G&E Serviços / BB Tecnologia e Serviços (Banco do Brasil)
+2023 – 2024
+
+Atuação em projetos corporativos de migração de sistemas legados, com foco
+em modernização do front-end e padronização visual.
+
+- Desenvolvimento front-end com Angular 14+, TypeScript, HTML5 e SCSS
+- Utilização de Design System corporativo (BB Design System) com apoio do Figma
+- Integração com APIs REST
+- Criação e manutenção de testes unitários seguindo princípios de TDD
+- Versionamento com Git/GitFlow e participação em code reviews
+- Atuação em times ágeis (Scrum e Kanban)
+- Uso de ferramentas como Swagger e Postman
+
 
 **Prefeitura do Recife – Departamento de Tecnologia na Educação (UTEC)
 Estagiário em Desenvolvimento Web – Mai/1999 a Out/2002**
