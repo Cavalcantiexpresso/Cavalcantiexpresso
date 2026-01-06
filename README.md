@@ -22,7 +22,7 @@ Desenvolvedor Full Stack com mais de dois anos de experiência em Angular, Node.
 
 **Experiência Profissional**
 
-Analista de TI – Desenvolvedor Front-end (Remoto)
+**Analista de TI – Desenvolvedor Front-end (Remoto)
 Ifenix Tecnologia e Serviços | Projeto EUROCONTATO (Paris)
 mai/2023 – set/2025
 
