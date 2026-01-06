@@ -15,9 +15,20 @@
 </a>
 
 <div align="higth">
-Sobre mim
 
-Desenvolvedor Full Stack com mais de dois anos de experiência em Angular, Node.js, Java e tecnologias relacionadas. Atuação em projetos de migração e internacionalização de sistemas corporativos, especialmente no Banco do Brasil, utilizando metodologias ágeis como SCRUM. Experiência com desenvolvimento de interfaces frontend responsivas, integração com APIs REST, versionamento com Git e GitFlow, e testes automatizados. Objetivo: contribuir com projetos inovadores, entregando soluções escaláveis e de alto desempenho. Busco sempre evoluir minhas habilidades e contribuir em projetos Open Source.
+Desenvolvedor Front-end com experiência em Angular e TypeScript, atuando
+em projetos corporativos de migração e evolução de sistemas, com destaque
+para atuação no Banco do Brasil.
+
+Tenho vivência no desenvolvimento de interfaces responsivas, aplicação de
+Design System, integração com APIs REST e versionamento de código com
+Git/GitFlow. Atuo em ambientes ágeis (Scrum/Kanban), colaborando com times
+de back-end e UX/UI, prezando por organização, qualidade e escalabilidade.
+
+Possuo conhecimento em Node.js e Java, o que contribui para uma melhor
+comunicação com o back-end e visão completa da aplicação, mantendo meu
+foco principal no desenvolvimento Front-end com Angular.
+ Busco sempre evoluir minhas habilidades e contribuir em projetos Open Source.
 </div>
 
 **Experiência Profissional**
