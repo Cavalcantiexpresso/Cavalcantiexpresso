@@ -29,11 +29,11 @@ mai/2023 – set/2025
 Atuação no desenvolvimento e evolução de aplicações web, participando de
 projetos com foco em qualidade, escalabilidade e organização de código.
 
-• Desenvolvimento de interfaces com Angular e TypeScript
-• Integração com APIs REST e manutenção de funcionalidades existentes
-• Aplicação de práticas de componentização e reaproveitamento de código
-• Versionamento com Git/GitHub, seguindo fluxo de trabalho colaborativo
-• Atuação em ambiente remoto utilizando metodologias ágeis (Scrum/Kanban)
+- Desenvolvimento de interfaces com Angular e TypeScript
+- Integração com APIs REST e manutenção de funcionalidades existentes
+- Aplicação de práticas de componentização e reaproveitamento de código
+- Versionamento com Git/GitHub, seguindo fluxo de trabalho colaborativo
+- Atuação em ambiente remoto utilizando metodologias ágeis (Scrum/Kanban)
 
 
 
