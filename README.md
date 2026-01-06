@@ -22,16 +22,19 @@ Desenvolvedor Full Stack com mais de dois anos de experiência em Angular, Node.
 
 **Experiência Profissional**
 
-Analista de TI – Desenvolvedor (Freelance) 
-*Ifenix Tecnologia e Serviços*  Para EUROCONTATO em Paris
-Remoto | mai de 2023 – set de 2025 · 2 anos e 5 meses  
+Analista de TI – Desenvolvedor Front-end (Remoto)
+Ifenix Tecnologia e Serviços | Projeto EUROCONTATO (Paris)
+mai/2023 – set/2025
 
-- Desenvolvimento e design de software para soluções personalizadas  
-- Atuação em projetos da indústria de software com foco em qualidade e escalabilidade  
-- Implementação de funcionalidades em aplicações web utilizando Angular e TypeScript  
-- Integração com APIs REST e manutenção de sistemas existentes  
-- Colaboração em ambiente remoto, aplicando metodologias ágeis (SCRUM/Kanban)  
-- Uso de Git/GitHub para versionamento e controle de código
+Atuação no desenvolvimento e evolução de aplicações web, participando de
+projetos com foco em qualidade, escalabilidade e organização de código.
+
+• Desenvolvimento de interfaces com Angular e TypeScript
+• Integração com APIs REST e manutenção de funcionalidades existentes
+• Aplicação de práticas de componentização e reaproveitamento de código
+• Versionamento com Git/GitHub, seguindo fluxo de trabalho colaborativo
+• Atuação em ambiente remoto utilizando metodologias ágeis (Scrum/Kanban)
+
 
 
 **Desenvolvedor de Software – G&E Serviços / BB Tecnologia e Serviços (Banco do Brasil)**  
